@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cgchat/static/css/main.1ff5616d.chunk.css",
+    "main.js": "/cgchat/static/js/main.6d6a43ec.chunk.js",
+    "main.js.map": "/cgchat/static/js/main.6d6a43ec.chunk.js.map",
+    "runtime-main.js": "/cgchat/static/js/runtime-main.6a1cbd21.js",
+    "runtime-main.js.map": "/cgchat/static/js/runtime-main.6a1cbd21.js.map",
+    "static/js/2.6d04462b.chunk.js": "/cgchat/static/js/2.6d04462b.chunk.js",
+    "static/js/2.6d04462b.chunk.js.map": "/cgchat/static/js/2.6d04462b.chunk.js.map",
+    "index.html": "/cgchat/index.html",
+    "precache-manifest.696376b040199982fadc1ee399f7d2a4.js": "/cgchat/precache-manifest.696376b040199982fadc1ee399f7d2a4.js",
+    "service-worker.js": "/cgchat/service-worker.js",
+    "static/css/main.1ff5616d.chunk.css.map": "/cgchat/static/css/main.1ff5616d.chunk.css.map",
+    "static/js/2.6d04462b.chunk.js.LICENSE.txt": "/cgchat/static/js/2.6d04462b.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/cgchat/static/media/logob.61de5ee9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a1cbd21.js",
+    "static/js/2.6d04462b.chunk.js",
+    "static/css/main.1ff5616d.chunk.css",
+    "static/js/main.6d6a43ec.chunk.js"
+  ]
+}
